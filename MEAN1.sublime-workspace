@@ -3,15 +3,51 @@
 	{
 		"selected_items":
 		[
+			[
+				"r",
+				"routes"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "codesnips.js",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/mongoose.js",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "config/express.js",
 			"settings":
 			{
-				"buffer_size": 801,
+				"buffer_size": 1384,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/routes/index.server.routes.js",
+			"settings":
+			{
+				"buffer_size": 248,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,31 +55,23 @@
 			"file": "app/controllers/index.server.controller.js",
 			"settings":
 			{
-				"buffer_size": 208,
+				"buffer_size": 457,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/views/index.ejs",
+			"file": "app/routes/users.server.routes.js",
 			"settings":
 			{
-				"buffer_size": 173,
+				"buffer_size": 505,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "package.json",
+			"file": "app/controllers/users.server.controller.js",
 			"settings":
 			{
-				"buffer_size": 496,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/env/development.js",
-			"settings":
-			{
-				"buffer_size": 99,
+				"buffer_size": 2303,
 				"line_ending": "Windows"
 			}
 		}
@@ -51,9 +79,25 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 360.0,
+		"height": 127.0,
 		"selected_items":
 		[
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: if"
+			],
 			[
 				"Package Control: install",
 				"Package Control: Install Package"
@@ -67,7 +111,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 384.0
+		"width": 416.0
 	},
 	"console":
 	{
@@ -91,23 +135,27 @@
 		"/C/Code/MEAN1",
 		"/C/Code/MEAN1/app",
 		"/C/Code/MEAN1/app/controllers",
+		"/C/Code/MEAN1/app/models",
+		"/C/Code/MEAN1/app/routes",
 		"/C/Code/MEAN1/app/views",
 		"/C/Code/MEAN1/config",
-		"/C/Code/MEAN1/config/env",
-		"/C/Code/MEAN1/public",
-		"/C/Code/MEAN1/public/css",
-		"/C/Code/MEAN1/public/js"
+		"/C/Code/MEAN1/config/env"
 	],
 	"file_history":
 	[
-		"/C/Code/MEAN1/config/config.js",
-		"/C/Code/MEAN1/config/env/development.js",
-		"/C/Code/MEAN1/app/controllers/index.server.controller.js",
-		"/C/Code/MEAN1/app/views/index.ejs",
-		"/C/Code/MEAN1/config/express.js",
-		"/C/Code/MEAN1/package.json",
+		"/C/Code/MEAN1/codesnips.js",
 		"/C/Code/MEAN1/server.js",
+		"/C/Code/MEAN1/app/routes/users.server.routes.js",
 		"/C/Code/MEAN1/app/routes/index.server.routes.js",
+		"/C/Code/MEAN1/app/controllers/users.server.controller.js",
+		"/C/Code/MEAN1/config/mongoose.js",
+		"/C/Code/MEAN1/config/env/development.js",
+		"/C/Code/MEAN1/package.json",
+		"/C/Code/MEAN1/app/views/index.ejs",
+		"/C/Code/MEAN1/app/controllers/index.server.controller.js",
+		"/C/Code/MEAN1/config/express.js",
+		"/C/Code/MEAN1/app/models/user.server.model.js",
+		"/C/Code/MEAN1/config/config.js",
 		"/C/Users/kevin/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 		"/C/Users/kevin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 	],
@@ -144,53 +192,52 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "config/express.js",
+					"file": "codesnips.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 801,
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								565,
-								565
+								19,
+								203
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": 1026.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/controllers/index.server.controller.js",
+					"file": "server.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 208,
+						"buffer_size": 297,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								208,
-								208
+								297,
+								297
 							]
 						],
 						"settings":
@@ -201,82 +248,109 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "app/views/index.ejs",
+					"file": "config/mongoose.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 173,
+						"buffer_size": 384,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								173,
-								173
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/express.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 292.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "package.json",
+					"buffer": 4,
+					"file": "app/routes/index.server.routes.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 496,
+						"buffer_size": 248,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								317,
-								317
+								248,
+								248
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "config/env/development.js",
+					"buffer": 5,
+					"file": "app/controllers/index.server.controller.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 99,
+						"buffer_size": 457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								98,
-								98
+								457,
+								457
 							]
 						],
 						"settings":
@@ -288,6 +362,62 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/routes/users.server.routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 23.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/controllers/users.server.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1877,
+								1877
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 923.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -366,7 +496,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
