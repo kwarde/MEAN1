@@ -1,3 +1,6 @@
+// Invoke 'strict' JavaScript mode
+'use strict';
+
 // Load the module dependencies
 var	config = require('./config'),
 	mongoose = require('mongoose');
